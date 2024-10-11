@@ -1,6 +1,8 @@
 # PokeApi
 Proyecto pokeapi
 
+EL ARCHIVO SQL ESTA DENTRO DEL PROYECTO PARA IMPORTAR 
+
 Conexion para la base de datos  "PhpMyAdmin" 
 
 const connection = mysql.createConnection({
